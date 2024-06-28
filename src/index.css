@@ -1,0 +1,141 @@
+body {
+  display: grid;
+  margin: 0;
+  box-sizing: border-box;
+  min-height: 100vh;
+  place-items: center;
+  background: linear-gradient(green, rgb(10, 7, 187))
+}
+.titulo {
+  font-size: 80px;
+}
+.contador {
+  text-align: center;
+  background-color: rgb(62, 0, 90);
+  padding: 10px;
+  border-radius: 8px;
+  color: azure;
+  box-shadow: 1 8px 12px rgba(63, 60, 60, 0.1);
+}
+.number {
+  font-size: 70px;
+  font-weight: 500;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.button1 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+} 
+.button2 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: gray 4px;
+  border: none;
+  margin-left: 7px;
+} 
+.button3 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: gray 4px;
+  border: none;
+  margin-left: 7px;
+}
+.button4 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: gray 4px;
+  border: none;
+  margin-left: 7px;
+}
+.button5 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 8px;
+  cursor: pointer;
+  box-shadow: gray 4px;
+  border: none;
+  margin-right: 5px;
+}
+.button6 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 8px;
+  cursor: pointer;
+  box-shadow: gray 4px;
+  border: none;
+  margin-right: 5px;
+}
+.button7 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 8px;
+  cursor: pointer;
+  box-shadow: gray 4px;
+  border: none;
+  margin-right: 5px;
+}
+.button8 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 8px;
+  cursor: pointer;
+  box-shadow: gray 4px;
+  border: none;
+}
+.button9 {
+  border-radius: 15px;
+  font-size: 30px;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: gray 4px;
+  border: none;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.button1:hover{
+  background-color: rgb(177, 10, 10);
+  color: azure;
+}
+.button2:hover{
+  background-color: rgb(177, 10, 10);
+  color: azure;
+}
+.button3:hover{
+  background-color: rgb(177, 10, 10);
+  color: azure;
+}
+.button4:hover{
+  background-color: rgb(177, 10, 10);
+  color: azure;
+}
+.button5:hover {
+  background-color: rgb(25, 214, 25);
+  color: azure;
+  
+}
+.button6:hover {
+  background-color: rgb(25, 214, 25);
+  color: azure; 
+}
+.button7:hover {
+  background-color: rgb(25, 214, 25);
+  color: azure; 
+}
+.button8:hover {
+  background-color: rgb(25, 214, 25);
+  color: azure; 
+}
+.button9:hover {
+  background-color: yellow;
+  color: azure;
+}
